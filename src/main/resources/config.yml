@@ -4,10 +4,11 @@
 # |  __/  | |___  | |_| |   | |   | |_| | | |\  |  ___) | | |___  |  _  | | |___  | |_| | | |_| | | |___  | |___  |  _ <
 # |_|     |_____|  \___/    |_|    \___/  |_| \_| |____/   \____| |_| |_| |_____| |____/   \___/  |_____| |_____| |_| \_\
 # Created by BrandonGouw#1781
+# Translation Fr by SplidZ
 
 messages:
-  reload-message: '&a&l[!] &aYou have reloaded the config'
+  reload-message: '&a&l[!] &aVous avez rechargé la configuration.'
   help:
-    - '&6&lPLUTON &e&lSCHEDULER | &7Made by BrandonGouw'
-    - '&6/plutonscheduler reload &eReloads the config'
-    - '&6/plutonscheduler help &eShows this menu'
+    - '&6&lPLUTON &e&lSCHEDULER | &7Fabriqué par BrandonGouw'
+    - '&6/plutonscheduler reload &eRecharge la configuration'
+    - '&6/plutonscheduler help &eAffiche ce menu'
