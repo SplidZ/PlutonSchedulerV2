@@ -3,7 +3,7 @@ settings:
 
 scheduler:
   AutoBroadcast:
-    command: 'bc This is a test'
+    command: 'bc Ceci est un test'
     scheduled-time: '13-01-2022 08:11:00'
     repeat:
       enabled: true
